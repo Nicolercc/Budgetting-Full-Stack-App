@@ -32,7 +32,7 @@ As a user of PennyWise, you can enjoy the following key features:
 
 ---
 
-> Trello: (here)[https://trello.com/b/SEp1dri4/budgeting-app-project-management]
+> Trello: [here](https://trello.com/b/SEp1dri4/budgeting-app-project-management)
 
 ---
 
