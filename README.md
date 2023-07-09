@@ -24,12 +24,10 @@ As a user of Budgtr, you can enjoy the following key features:
 
 ---
 
-## Installation
+## Repositories 
 
-
-1. Clone your repository
-2. Navigate to your project directory
-3. Install dependecies: `npm install` and `npm start`
+[Backend](https://github.com/Nicolercc/project-budgeting-app-BE)
+[Frontend](https://github.com/Nicolercc/project-budgeting-app-FE)
 
 ---
 
