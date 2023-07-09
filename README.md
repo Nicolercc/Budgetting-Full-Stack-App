@@ -26,7 +26,6 @@ As a user of Budgtr, you can enjoy the following key features:
 
 ## Installation
 
-Please see the appropriate guide for your environment of choice:
 
 1. Clone your repository
 2. Navigate to your project directory
