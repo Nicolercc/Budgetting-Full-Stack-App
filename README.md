@@ -1,8 +1,8 @@
-# Budgetting-Full-Stack-App
+# PennyWise-Full-Stack-App
 
 ### Description:
 
-> Budgtr is an application where people can log their financial transactions. This project brings together various skills in JavaScript, website development, React, servers, and RESTful routes.
+> PennyWise is an application where people can log their financial transactions. This project brings together various skills in JavaScript, website development, React, servers, and RESTful routes.
 
 ---
 
