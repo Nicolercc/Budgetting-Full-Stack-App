@@ -32,6 +32,7 @@ As a user of PennyWise, you can enjoy the following key features:
 
 ---
 
+> To track the progress of the PennyWise project and view tasks and features being worked on, visit my Trello board
 > Trello: [here](https://trello.com/b/SEp1dri4/budgeting-app-project-management)
 
 ---
