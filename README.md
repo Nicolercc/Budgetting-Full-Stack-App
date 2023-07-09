@@ -6,7 +6,7 @@
 
 ---
 
-As a user of Budgtr, you can enjoy the following key features:
+As a user of PennyWise, you can enjoy the following key features:
 
 - [ ] User-Friendly Interface
 
