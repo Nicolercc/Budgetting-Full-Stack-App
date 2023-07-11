@@ -39,9 +39,9 @@ As a user of PennyWise, you can enjoy the following key features:
 
 ## Deployed Links
 
-> Backend: [here](https://budget-app-be.onrender.com/transactions)
+ Backend: [here](https://budget-app-be.onrender.com/transactions)
 
-> Frontend: [here](https://beamish-lokum-053497.netlify.app/)
+ Frontend: [here](https://beamish-lokum-053497.netlify.app/)
 
 
 
